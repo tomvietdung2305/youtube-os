@@ -1,0 +1,5 @@
+{
+  "name": "AI YouTube Content OS",
+  "description": "Internal studio for multi-channel faceless content production. Generates scripts, image prompts, and SEO packages using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
